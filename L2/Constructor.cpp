@@ -56,8 +56,8 @@ public:
 int main()
 {
     Customer A1;
-    Customer A2("Farhan", 65, 5000);
-    Customer A3("Arman", 35);
+    Customer A2("aditya", 65, 5000);
+    Customer A3("rahul", 35);
     Customer A4(A3);
     Customer A5;
     A5 = A1;
